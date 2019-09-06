@@ -1,6 +1,9 @@
 # Vertical Align
 This is CLI based game developed using C++. This is similar to Tetris but with a twist.
 
+![image](https://github.com/hsraps/vertical-3-align/blob/master/Game.png)
+
+
 ## Game Instructions:
 * A block with a random special character ( '&', '$', ')', '(', ...) would appear on the right, and you would be prompted to place it in choice of one of the given stacks.
 * For 3 same labelled block placed in a stack, player would be given 15 points, and the 3 blocks gets destroyed.
