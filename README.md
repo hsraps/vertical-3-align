@@ -13,7 +13,7 @@ This is CLI based game developed using C++. This is similar to Tetris but with a
 ## Data Structures Used:
 * Stack
 
-## Future Work:
+## Scope for Future Work:
 * Difficulty level can be added.
 * Time bounded user input for the choice of stack.
 * Scope for enhanced UI/UX.
