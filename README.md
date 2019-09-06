@@ -1,4 +1,4 @@
-# vertical-align
+# Vertical Align
 This is CLI based game developed using C++. This is similar to Tetris but with a twist.
 
 ## Game Instructions:
