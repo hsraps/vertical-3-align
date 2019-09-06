@@ -18,4 +18,3 @@ This is CLI based game developed using C++. This is similar to Tetris but with a
 * Time bounded user input for the choice of stack.
 * Scope for enhanced UI/UX.
 
-MADE WITH <3 BY SPARSH SHUKLA.
