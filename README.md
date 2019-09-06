@@ -6,9 +6,9 @@ This is CLI based game developed using C++. This is similar to Tetris but with a
 
 ## Game Instructions:
 * A block with a random special character ( '&', '$', ')', '(', ...) would appear on the right, and you would be prompted to place it in choice of one of the given stacks.
-* For 3 same labelled block placed in a stack, player would be given 15 points, and the 3 blocks gets destroyed.
+* When a player aligns 3 similar blocks vertically, then those 3 blocks gets destroyed, and player is awarded 15 points.
 * Player will lose when any one of the stack overflows.
-* Try scoring maximum points :)
+* The goal is to score maximum points :)
 
 ## Data Structures Used:
 * Stack
