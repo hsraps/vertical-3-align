@@ -1,4 +1,5 @@
 #include <bits/stdc++.h>
+#include<string.h>
 #include<stdlib.h>
 int flag=0;
 using namespace std;
